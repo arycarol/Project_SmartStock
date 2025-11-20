@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Systh\\source\\repos\\Project_SmartStock\\SmartStock\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Systh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5572A991-8B37-405F-9E43-CB4AC0CA1981}|SmartStock\\SmartStock.csproj|c:\\users\\systh\\source\\repos\\project_smartstock\\smartstock\\smartstock\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5572A991-8B37-405F-9E43-CB4AC0CA1981}|SmartStock\\SmartStock.csproj|solutionrelative:smartstock\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -41,20 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Container.targets",
-              "DocumentMoniker": "C:\\Users\\Systh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets",
-              "ToolTip": "C:\\Users\\Systh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\build\\Container.targets",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAIwNYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-20T03:05:29.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Systh\\source\\repos\\Project_SmartStock\\SmartStock\\SmartStock\\Produto.cs",
               "RelativeDocumentMoniker": "SmartStock\\Produto.cs",
@@ -62,12 +46,11 @@
               "RelativeToolTip": "SmartStock\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:55:22.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T02:55:22.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Systh\\source\\repos\\Project_SmartStock\\SmartStock\\SmartStock\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "SmartStock\\Data\\DataContext.cs",
@@ -75,18 +58,17 @@
               "RelativeToolTip": "SmartStock\\Data\\DataContext.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T02:33:31.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-20T02:33:31.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProdutoController.cs",
               "DocumentMoniker": "C:\\Users\\Systh\\source\\repos\\Project_SmartStock\\SmartStock\\SmartStock\\Controllers\\ProdutoController.cs",
               "RelativeDocumentMoniker": "SmartStock\\Controllers\\ProdutoController.cs",
               "ToolTip": "C:\\Users\\Systh\\source\\repos\\Project_SmartStock\\SmartStock\\SmartStock\\Controllers\\ProdutoController.cs",
               "RelativeToolTip": "SmartStock\\Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAmwFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T02:28:59.013Z",
               "EditorCaption": ""

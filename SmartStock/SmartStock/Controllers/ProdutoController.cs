@@ -26,7 +26,7 @@ namespace SmartStock.Controllers
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
-            var produto = _context.ProdutoTable.FirstOrDefault(x => x.Id == id); // ✅ Correto
+            var produto = _context.ProdutoTable.FirstOrDefault(x => x.Id == id); 
 
             if (produto == null)
             {
