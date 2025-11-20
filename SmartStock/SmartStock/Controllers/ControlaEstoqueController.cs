@@ -6,7 +6,7 @@ namespace SmartStock.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ControlaEstoque : ControllerBase
+    public class ControlaEstoqueController : ControllerBase
     {
         // GET: api/<ControlaEstoque>
         [HttpGet]

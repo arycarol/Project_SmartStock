@@ -9,5 +9,7 @@ namespace SmartStock
         public string Codigo { get; set; }
         public string Descricao { get; set; }
         public decimal PrecoUnitario { get; set; }
+
+        public ICollection<ItemPedido> ItensPedido { get; set; }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3BR4UpDuH88=",
+  "dgSpecHash": "Z+L4HAUBsJk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Systh\\Downloads\\SmartStock\\SmartStock\\SmartStock\\SmartStock.csproj",
+  "projectFilePath": "C:\\Users\\Systh\\source\\repos\\Project_SmartStock\\SmartStock\\SmartStock\\SmartStock.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Systh\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Systh\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
